@@ -1,5 +1,5 @@
 
-# Prompt Engineering Guide | Prompt Engineering Guide
+# Prompt Engineering Guide
 
 Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs).
 
